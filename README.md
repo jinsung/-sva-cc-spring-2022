@@ -30,7 +30,6 @@
   * Reference works
     * [John Maeda Morisawa 10](https://maedastudio.com/morisawa-10-2016/)
     * [Eyeo 2013 - James Paterson](https://vimeo.com/69323991)
-    * [Zach Liberman's Instagram](https://www.instagram.com/zach.lieberman/?hl=en)
   * The history of [P5.js](https://p5js.org/) and [Processing](https://processing.org/)
     * [Design by numbers](https://mitpress.mit.edu/books/design-numbers)
     * [The aesthetics + computation group](https://acg.media.mit.edu/)
@@ -115,6 +114,8 @@
     * [Modularity](https://editor.p5js.org/jinsung/sketches/l7Uf-zbeO)
     * [Reusability](https://editor.p5js.org/jinsung/sketches/HAyYTZWG7)
  * [Clock](https://editor.p5js.org/jinsung/sketches/6zSA6_ZeW)
+    * John Maeda
+    * Yugo Nakamura
 
 ### Week 8 -- Object and Array
  * [three.js](https://threejs.org/)
