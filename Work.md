@@ -8,7 +8,7 @@
 * [HW1](https://editor.p5js.org/catherinehuo0524/sketches/5ow_CcgHX)
 
 ### Hamin Jeon
-* [HW1]
+* [HW1](https://editor.p5js.org/hamxx9411/sketches/t49ju9Xc0)
 
 ### Sohui Kim
 * [HW1](https://editor.p5js.org/skim297/sketches/zpbKHBcq8)
