@@ -55,8 +55,9 @@
     * Declare, Initialize, and Use
   * [Mouse Position](https://editor.p5js.org/jinsung/sketches/6sEwURA2z)
   * [No Background](https://editor.p5js.org/jinsung/sketches/V6u5fiLJq)
+  * Homework - bouncing ball!
 
-### Week 3 -- Bouncing Ball!
+### Week 3 -- Animation
  * Casey Reas
     * [How to draw with Code](https://www.youtube.com/watch?v=_8DMEHxOLQE)
  * Comment
@@ -68,7 +69,6 @@
     * Scope
  * [Boolean Operation](https://editor.p5js.org/jinsung/sketches/HYDqGeOFv)
  * [Easing](https://editor.p5js.org/jinsung/sketches/UjXbU3Q8O)
- * Homework - bouncing ball!
 
 ### Week 4 -- Loop
  * [Kyle McDonald](https://kylemcdonald.net/)
