@@ -17,7 +17,7 @@
 * [HW1](https://editor.p5js.org/jlee334/sketches/Q9jawVjzz)
 
 ### Shiyu Li
-* [HW1]
+* [HW1](https://editor.p5js.org/Shiyuli/sketches/TXfxH841r)
 
 ### Haonan Qi
 * [HW1](https://editor.p5js.org/qhnaaa/sketches/lnR5tXwNJ)
@@ -32,5 +32,5 @@
 * [HW1](https://editor.p5js.org/PeintureNoire/sketches/E3UAIiEEW)
 
 ### Er Xue
-* [HW1]
+* [HW1](https://editor.p5js.org/xueer0613/sketches/Dw9EqEUjh)
 
