@@ -30,6 +30,7 @@
 
 ### Angela Song
 * [HW1](https://editor.p5js.org/asong9/sketches/OXUiCcYis)
+* [HW2](https://editor.p5js.org/asong9/sketches/D1v94Ic-w)
 
 ### Ziqi Tang
 * [HW1](https://editor.p5js.org/zikkiT/sketches/d7YAIGXz_)
