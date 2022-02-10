@@ -27,6 +27,7 @@
 
 ### Haonan Qi
 * [HW1](https://editor.p5js.org/qhnaaa/sketches/lnR5tXwNJ)
+* [HW2](https://editor.p5js.org/qhnaaa/sketches/MuR3fFezy)
 
 ### Angela Song
 * [HW1](https://editor.p5js.org/asong9/sketches/OXUiCcYis)
