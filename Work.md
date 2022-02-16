@@ -1,5 +1,4 @@
 ### Hae Jee Cho
-* [HW1]
 * [HW2](https://editor.p5js.org/hchoi40/sketches/2SCzSU_y2)
 
 ### Jessica Chung
@@ -35,6 +34,7 @@
 
 ### Ziqi Tang
 * [HW1](https://editor.p5js.org/zikkiT/sketches/d7YAIGXz_)
+* [HW2](https://editor.p5js.org/zikkiT/sketches/ztl-PjMuH)
 
 ### Yuzhen Wang
 * [HW1](https://editor.p5js.org/PeintureNoire/sketches/E3UAIiEEW)
