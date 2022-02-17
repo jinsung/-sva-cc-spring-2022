@@ -91,6 +91,11 @@
  * [Random VS Perlin Noise](https://editor.p5js.org/jinsung/sketches/DghwXR_H)
 
 ### Week 6 -- Noise, Curve
+ * Daito Manabe
+    * [Face](https://www.youtube.com/watch?v=pLAma-lrJRM)
+    * [NIKE MUSIC SHOE](https://www.youtube.com/watch?v=uS1exujG3cY)
+    * [discrete figures at Spiral Hall Tokyo](https://www.youtube.com/watch?time_continue=88&v=hauXQQhwbgM)
+    * [Perfume Live at SXSW | STORY (SXSW-MIX)](https://www.youtube.com/watch?v=zZiPIgCtIxg)
  * [Perlin Noise 2](https://editor.p5js.org/jinsung/sketches/5Dx8IiKic)
  * [Perlin Noise 3](https://editor.p5js.org/jinsung/sketches/1zw6R4AjL)
  * [Nested For Loop](https://editor.p5js.org/jinsung/sketches/BUhPCkQM_)
@@ -101,11 +106,7 @@
  * [Nested For Loop / Curves](https://editor.p5js.org/jinsung/sketches/1q36GJcFT)
 
 ### Week 7 -- 2D Transformation, Function, Clock
- * Daito Manabe
-    * [Face](https://www.youtube.com/watch?v=pLAma-lrJRM)
-    * [NIKE MUSIC SHOE](https://www.youtube.com/watch?v=uS1exujG3cY)
-    * [discrete figures at Spiral Hall Tokyo](https://www.youtube.com/watch?time_continue=88&v=hauXQQhwbgM)
-    * [Perfume Live at SXSW | STORY (SXSW-MIX)](https://www.youtube.com/watch?v=zZiPIgCtIxg)
+ 
  * [2D Transformation](https://editor.p5js.org/jinsung/sketches/fuV9qy_iZ)
     * Radians & Degrees
     * Translate / Rotate / Scale
