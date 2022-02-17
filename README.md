@@ -85,18 +85,18 @@
     * [IQ Font](https://vimeo.com/5233789)
     * [Reflection](https://www.youtube.com/watch?v=FOV3FDbpEvI)
     * [Reflection](https://twitter.com/zachlieberman/status/1082672539464331264)
- * Debug
-    * console.log
-    * Javascript Debugger
  * [Trigonometry](https://editor.p5js.org/jinsung/sketches/_WxzlsQow)
  * [For Loop 3](https://editor.p5js.org/jinsung/sketches/oIg2GKphj)
  * [Nested For Loop](https://editor.p5js.org/jinsung/sketches/u5kQQvSQf)
+ * [Random VS Perlin Noise](https://editor.p5js.org/jinsung/sketches/DghwXR_H)
 
 ### Week 6 -- Noise, Curve
- * [Random VS Perlin Noise](https://editor.p5js.org/jinsung/sketches/DghwXR_H)
  * [Perlin Noise 2](https://editor.p5js.org/jinsung/sketches/5Dx8IiKic)
  * [Perlin Noise 3](https://editor.p5js.org/jinsung/sketches/1zw6R4AjL)
  * [Nested For Loop](https://editor.p5js.org/jinsung/sketches/BUhPCkQM_)
+ * Debug
+   * console.log
+   * Javascript Debugger
  * [curveVertex()](https://p5js.org/reference/#/p5/curveVertex)
  * [Nested For Loop / Curves](https://editor.p5js.org/jinsung/sketches/1q36GJcFT)
 
