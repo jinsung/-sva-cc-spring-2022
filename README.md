@@ -115,8 +115,8 @@
     * [Modularity](https://editor.p5js.org/jinsung/sketches/l7Uf-zbeO)
     * [Reusability](https://editor.p5js.org/jinsung/sketches/HAyYTZWG7)
  * [Clock](https://editor.p5js.org/jinsung/sketches/6zSA6_ZeW)
-    * John Maeda
-    * Yugo Nakamura
+    * [John Maeda's 12 o'clocks](https://codingtrain.github.io/12oclocks/)
+    * Yugo cNakamura ([DotClock](https://frm.fm/a/yugo_nakamura/dotclock), [DropClock](https://frm.fm/a/yugo_nakamura/dropclock),  [Industrious Clock](https://www.youtube.com/watch?v=HY6kUGpBoro))
 
 ### Week 8 -- Object and Array
  * [three.js](https://threejs.org/)
