@@ -106,20 +106,20 @@
  * [Nested For Loop / Curves](https://editor.p5js.org/jinsung/sketches/1q36GJcFT)
 
 ### Week 7 -- 2D Transformation, Function, Clock
- 
+ * [THA LTD.](http://tha.jp/works/)
  * [2D Transformation](https://editor.p5js.org/jinsung/sketches/fuV9qy_iZ)
     * Radians & Degrees
     * Translate / Rotate / Scale
     * Push / Pop
- * Function
-    * [Modularity](https://editor.p5js.org/jinsung/sketches/l7Uf-zbeO)
-    * [Reusability](https://editor.p5js.org/jinsung/sketches/HAyYTZWG7)
  * [Clock](https://editor.p5js.org/jinsung/sketches/6zSA6_ZeW)
     * [John Maeda's 12 o'clocks](https://codingtrain.github.io/12oclocks/)
     * Yugo cNakamura ([DotClock](https://frm.fm/a/yugo_nakamura/dotclock), [DropClock](https://frm.fm/a/yugo_nakamura/dropclock),  [Industrious Clock](https://www.youtube.com/watch?v=HY6kUGpBoro))
 
 ### Week 8 -- Object and Array
  * [three.js](https://threejs.org/)
+ * Function
+    * [Modularity](https://editor.p5js.org/jinsung/sketches/l7Uf-zbeO)
+    * [Reusability](https://editor.p5js.org/jinsung/sketches/HAyYTZWG7)
  * [Array](https://editor.p5js.org/jinsung/sketches/cHcf9kZdc)
  * [Array with For Loop](https://editor.p5js.org/jinsung/sketches/LC-b5TInX)
  * [Object](https://editor.p5js.org/jinsung/sketches/KtVF8apBV)
@@ -134,7 +134,6 @@
  * Need to reschedule for the class next week. 
  
 ### Week 10 -- Object and Array Practice
- * [THA LTD.](http://tha.jp/works/)
  * [Letter Animation 1](https://editor.p5js.org/jinsung/sketches/eyAyczpBO)
  * [Letter Animation 2](https://editor.p5js.org/jinsung/sketches/dUCDvAlbf)
  * [Letter Animation 3](https://editor.p5js.org/jinsung/sketches/qUrMNVhiS)
