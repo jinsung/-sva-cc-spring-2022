@@ -43,7 +43,6 @@
 ### Ziqi Tang
 * [HW1](https://editor.p5js.org/zikkiT/sketches/d7YAIGXz_)
 * [HW2](https://editor.p5js.org/zikkiT/sketches/ztl-PjMuH)
-* [HW3](https://editor.p5js.org/zikkiT/sketches/i-zijppY1)
 
 ### Yuzhen Wang
 * [HW1](https://editor.p5js.org/PeintureNoire/sketches/E3UAIiEEW)
