@@ -35,7 +35,7 @@
 
 ### Shiyu Li
 * [HW1](https://editor.p5js.org/Shiyuli/sketches/TXfxH841r)
-* [Clock](https://editor.p5js.org/Shiyuli/sketches/dIEIpwSMZ)
+* [Clock](https://editor.p5js.org/Shiyuli/sketches/lsEiHtpHk)
 
 ### Haonan Qi
 * [HW1](https://editor.p5js.org/qhnaaa/sketches/lnR5tXwNJ)
