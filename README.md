@@ -130,25 +130,20 @@
  * Mid-term Due
  * [DIA](https://dia.tv/)
  * [Moving Charactors 2](https://editor.p5js.org/jinsung/sketches/SsIxIlQYa)
- * [Moving Charactors 3](https://editor.p5js.org/jinsung/sketches/aHTNv334s)
  
-### Week 10 -- Object and Array Practice
- * [Image](https://editor.p5js.org/jinsung/sketches/eH8irXDTj)
- * Font
- * [Ascii Art](https://editor.p5js.org/jinsung/sketches/EOUDJMDbn)
- * [Letter Animation 1](https://editor.p5js.org/jinsung/sketches/eyAyczpBO)
- * [Letter Animation 2](https://editor.p5js.org/jinsung/sketches/dUCDvAlbf)
- * [Letter Animation 3](https://editor.p5js.org/jinsung/sketches/qUrMNVhiS)
- * [Letter Animation 3-1](https://editor.p5js.org/jinsung/sketches/_j2Xx0VqV)
- * [Letter Animation 4](https://editor.p5js.org/jinsung/sketches/bcS4TW7iv)
- 
-### Week 11 -- Image
+### Week 10 -- External Files / Pixels
  * [ml5](https://learn.ml5js.org/docs/#/)
  * [posenet](https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5)
+ * [Moving Charactors 3](https://editor.p5js.org/jinsung/sketches/aHTNv334s)
+ * [Image](https://editor.p5js.org/jinsung/sketches/eH8irXDTj)
+ * Font
  * [Pixel](https://editor.p5js.org/jinsung/sketches/JSDPUVCmO)
+ * [Ascii Art](https://editor.p5js.org/jinsung/sketches/EOUDJMDbn)
  * [Pixel Animation](https://editor.p5js.org/jinsung/sketches/tdGXQhDob)
  * [Webcam](https://editor.p5js.org/jinsung/sketches/r17qhhmTm)
  * [Posenet](https://editor.p5js.org/jinsung/sketches/u59xzxU4L)
+ 
+### Week 11 -- TBD
 
 ### Week 12 -- Vector / Force
  * [Matter.js](https://brm.io/matter-js/)
