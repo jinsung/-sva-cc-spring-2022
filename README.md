@@ -133,6 +133,9 @@
  * [Moving Charactors 3](https://editor.p5js.org/jinsung/sketches/aHTNv334s)
  
 ### Week 10 -- Object and Array Practice
+ * [Image](https://editor.p5js.org/jinsung/sketches/eH8irXDTj)
+ * Font
+ * [Ascii Art](https://editor.p5js.org/jinsung/sketches/EOUDJMDbn)
  * [Letter Animation 1](https://editor.p5js.org/jinsung/sketches/eyAyczpBO)
  * [Letter Animation 2](https://editor.p5js.org/jinsung/sketches/dUCDvAlbf)
  * [Letter Animation 3](https://editor.p5js.org/jinsung/sketches/qUrMNVhiS)
@@ -142,7 +145,6 @@
 ### Week 11 -- Image
  * [ml5](https://learn.ml5js.org/docs/#/)
  * [posenet](https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5)
- * [Image](https://editor.p5js.org/jinsung/sketches/eH8irXDTj)
  * [Pixel](https://editor.p5js.org/jinsung/sketches/JSDPUVCmO)
  * [Pixel Animation](https://editor.p5js.org/jinsung/sketches/tdGXQhDob)
  * [Webcam](https://editor.p5js.org/jinsung/sketches/r17qhhmTm)
