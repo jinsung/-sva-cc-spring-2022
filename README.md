@@ -143,9 +143,7 @@
  * [Webcam](https://editor.p5js.org/jinsung/sketches/r17qhhmTm)
  * [Posenet](https://editor.p5js.org/jinsung/sketches/u59xzxU4L)
  
-### Week 11 -- TBD
-
-### Week 12 -- Vector / Force
+### Week 11 -- Vector / Force
  * [Matter.js](https://brm.io/matter-js/)
  * Vector (Class)
   * Vector vs Point
@@ -155,14 +153,15 @@
  * [Friction](https://editor.p5js.org/jinsung/sketches/o-pAFmMop)
  * [Angry Particle?](https://editor.p5js.org/jinsung/sketches/B1d8CSJyE)
 
-### Week 13 -- Particle System
+### Week 12 -- Particle System
  * [Robert Hodgin](http://roberthodgin.com/)
  * [Robert Hodgin - Vimeo](https://vimeo.com/flight404/)
  * [Particle System](https://editor.p5js.org/jinsung/sketches/Gn1YNnTkn)
  * [Particle System / Noise](https://editor.p5js.org/jinsung/sketches/4wONJkuBy)
- 
+
+### Week 13 -- 1:1 Meeting
+
 ### Week 14 -- 1:1 Meeting
- * https://docs.google.com/spreadsheets/d/1pljnZLFBGNlKc5e746sxKHQr9ZFCjMo8RVRQ8WUzX7A/edit#gid=0
 
 ### Week 15 -- Particle System 2 / Final Project Presentation
  * [Particle System / Repulse](https://editor.p5js.org/jinsung/sketches/VX43gPQuD)
