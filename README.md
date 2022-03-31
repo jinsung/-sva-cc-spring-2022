@@ -140,11 +140,11 @@
  * [Pixel](https://editor.p5js.org/jinsung/sketches/JSDPUVCmO)
  * [Ascii Art](https://editor.p5js.org/jinsung/sketches/EOUDJMDbn)
  * [Pixel Animation](https://editor.p5js.org/jinsung/sketches/tdGXQhDob)
- * [Webcam](https://editor.p5js.org/jinsung/sketches/r17qhhmTm)
- * [Posenet](https://editor.p5js.org/jinsung/sketches/u59xzxU4L)
  
 ### Week 11 -- Vector / Force
  * [Matter.js](https://brm.io/matter-js/)
+ * [Webcam](https://editor.p5js.org/jinsung/sketches/r17qhhmTm)
+ * [Posenet](https://editor.p5js.org/jinsung/sketches/u59xzxU4L)
  * Vector (Class)
   * Vector vs Point
   * [Magnitude, Direction, Add, Subtract, Multiply and Divide](https://editor.p5js.org/jinsung/sketches/BJDUbJpa7)
@@ -158,14 +158,16 @@
  * [Robert Hodgin - Vimeo](https://vimeo.com/flight404/)
  * [Particle System](https://editor.p5js.org/jinsung/sketches/Gn1YNnTkn)
  * [Particle System / Noise](https://editor.p5js.org/jinsung/sketches/4wONJkuBy)
-
-### Week 13 -- 1:1 Meeting
-
-### Week 14 -- 1:1 Meeting
-
-### Week 15 -- Particle System 2 / Final Project Presentation
  * [Particle System / Repulse](https://editor.p5js.org/jinsung/sketches/VX43gPQuD)
  * [Particle System / Pixel Data](https://editor.p5js.org/jinsung/sketches/h-D0R-3-H)
+
+### Week 13 -- 1:1 Meeting
+ * [Schedule Sheet](https://docs.google.com/spreadsheets/d/1pljnZLFBGNlKc5e746sxKHQr9ZFCjMo8RVRQ8WUzX7A/edit?usp=sharing)
+
+### Week 14 -- 1:1 Meeting
+ * [Schedule Sheet](https://docs.google.com/spreadsheets/d/1EOvV7Xcs36GArT7cTeOHF3p7xm5hSNlpD6mbKYp4vVI/edit?usp=sharing)
+
+### Week 15 -- Final Project Presentation
 
 ## Students with Disabilities
 
