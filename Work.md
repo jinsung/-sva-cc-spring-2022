@@ -41,6 +41,7 @@
 
 ### Shiyu Li
 * [HW1](https://editor.p5js.org/Shiyuli/sketches/TXfxH841r)
+* [HW2](https://editor.p5js.org/Shiyuli/sketches/2CLh8Z1cm)
 * [HW3](https://editor.p5js.org/Shiyuli/sketches/3-mDS46Jn)
 * [Clock](https://editor.p5js.org/Shiyuli/sketches/lsEiHtpHk)
 * [Final](https://editor.p5js.org/Shiyuli/sketches/0DQzEl4N-)
